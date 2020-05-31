@@ -1,0 +1,26 @@
+{
+  "name": "mbn",
+  "version": "1.0.0",
+  "description": "Create a number system with multiple bases",
+  "main": "mbn.js",
+  "scripts": {
+    "test": "tap -w --100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiPhil/multi-base-number.git"
+  },
+  "keywords": [
+    "mbn",
+    "multi-base-number"
+  ],
+  "author": "EmiPhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmiPhil/multi-base-number/issues"
+  },
+  "homepage": "https://github.com/EmiPhil/multi-base-number#readme",
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
