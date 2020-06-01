@@ -1,6 +1,6 @@
 {
   "name": "mbn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a number system with multiple bases",
   "main": "mbn.js",
   "scripts": {
