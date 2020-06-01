@@ -22,6 +22,8 @@ tap.strictSame(nibble.breakPoints, originalBp)
 tap.strictSame(nibble.mod1, nibble.cacheMod1)
 tap.strictSame(nibble.mod1, originalM1)
 
+tap.strictSame(nibble.mod1, [3, 5, 15])
+
 let nibbles = [
   '0000', '0001',
   '0010', '0011',

@@ -82,7 +82,7 @@ class MBN {
   parseMod1 () {
     let mod1 = []
     for (let i = 1; i < this.combinations; i++) {
-      if (this.combinations % i === 0) {
+      if (this.combinations % i === 1) {
         mod1.push(i)
       }
     }
